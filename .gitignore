@@ -1,5 +1,6 @@
 _build
-src/seq.ml
-src/seq.mli
 *.merlin
 *.install
+node_modules
+.melange.eobjs
+_esy
