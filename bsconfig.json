@@ -1,5 +1,5 @@
 {
-  "name": "story-engine",
+  "name": "seq",
 
   "bsc-flags": [ "-bs-g" ],
   "sources": [
